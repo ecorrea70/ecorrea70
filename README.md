@@ -1,7 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Eduardo and my nickname is "ecorrea70"!
+## My name is Eduardo and my username is "ecorrea70"!
 
-![Snake animation](https://github.com/ecorrea70/ecorrea70/blob/output/github-contribution-grid-snake.svg)
 
 ## Contact:
 
