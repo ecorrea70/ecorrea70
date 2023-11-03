@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Eduardo
+# 👋 Hello, I'm Eduardo!
 ## Welcome to my GitHub profile!
 
 
