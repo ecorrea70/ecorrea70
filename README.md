@@ -1,7 +1,4 @@
 # 👋 Hello, I'm Eduardo!
-## Welcome to my GitHub profile!
-
-
 ## Contact:
 
 <div>
